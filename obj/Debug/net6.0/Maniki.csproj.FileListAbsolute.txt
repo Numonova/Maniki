@@ -1,0 +1,14 @@
+D:\Projects\Maniki\Maniki\bin\Debug\net6.0\Maniki.exe
+D:\Projects\Maniki\Maniki\bin\Debug\net6.0\Maniki.deps.json
+D:\Projects\Maniki\Maniki\bin\Debug\net6.0\Maniki.runtimeconfig.json
+D:\Projects\Maniki\Maniki\bin\Debug\net6.0\Maniki.dll
+D:\Projects\Maniki\Maniki\bin\Debug\net6.0\Maniki.pdb
+D:\Projects\Maniki\Maniki\obj\Debug\net6.0\Maniki.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Maniki\Maniki\obj\Debug\net6.0\Maniki.AssemblyInfoInputs.cache
+D:\Projects\Maniki\Maniki\obj\Debug\net6.0\Maniki.AssemblyInfo.cs
+D:\Projects\Maniki\Maniki\obj\Debug\net6.0\Maniki.csproj.CoreCompileInputs.cache
+D:\Projects\Maniki\Maniki\obj\Debug\net6.0\Maniki.dll
+D:\Projects\Maniki\Maniki\obj\Debug\net6.0\refint\Maniki.dll
+D:\Projects\Maniki\Maniki\obj\Debug\net6.0\Maniki.pdb
+D:\Projects\Maniki\Maniki\obj\Debug\net6.0\Maniki.genruntimeconfig.cache
+D:\Projects\Maniki\Maniki\obj\Debug\net6.0\ref\Maniki.dll
